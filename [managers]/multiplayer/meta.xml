@@ -1,0 +1,5 @@
+<meta>
+	<info author="jack9267" description="Creates a player for people who join, sets the syncer to themself." />
+
+	<script src="server.lua" type="server" />
+</meta>

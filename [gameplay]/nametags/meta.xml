@@ -1,0 +1,6 @@
+<meta>
+	<info author="jack9267" description="Provides nametags." />
+
+	<script src="client.lua" type="client" />
+	<file src="Ubuntu-L.ttf" type="client" />
+</meta>

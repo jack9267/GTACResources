@@ -1,0 +1,6 @@
+<meta>
+	<info author="jack9267" description="Provides ability to run code on the server or client, careful who you trust." />
+
+	<script src="client.lua" type="client" />
+	<script src="server.lua" type="server" />
+</meta>

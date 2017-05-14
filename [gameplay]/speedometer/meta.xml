@@ -1,0 +1,8 @@
+<meta>
+	<info author="jack9267" description="Provides a speedometer when in a vehicle." />
+
+	<script src="client.lua" type="client" />
+
+	<file src="Speedometer.png" type="client" />
+	<file src="SpeedometerNeedle.png" type="client" />
+</meta>

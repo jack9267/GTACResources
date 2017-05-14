@@ -1,0 +1,5 @@
+<meta>
+	<info author="jack9267" description="Provides commands to manage resources, careful who you trust." />
+
+	<script src="server.lua" type="server" />
+</meta>

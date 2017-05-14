@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<meta>
+	<info author="Lucas" description="Web interface for resource managment." />
+
+	<script src="class.lua" type="server"/>
+	<script src="Connection.lua" type="server"/>
+	<script src="HTTP.lua" type="server"/>
+	<script src="Server.lua" type="server"/>
+</meta>

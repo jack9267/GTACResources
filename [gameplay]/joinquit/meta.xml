@@ -1,0 +1,5 @@
+<meta>
+	<info author="jack9267" description="Provides join and quit messages." />
+
+	<script src="server.lua" type="server" />
+</meta>

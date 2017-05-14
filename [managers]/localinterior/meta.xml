@@ -1,0 +1,5 @@
+<meta>
+	<info author="jack9267" description="Makes the camera use the interior of the player." />
+
+	<script src="client.lua" type="client" />
+</meta>
