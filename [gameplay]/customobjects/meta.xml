@@ -1,0 +1,5 @@
+<meta>
+	<script src="client.lua" type="client" />
+
+	<file src="content.xml" type="client" />
+</meta>

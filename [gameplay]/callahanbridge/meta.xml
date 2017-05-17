@@ -1,0 +1,5 @@
+<meta>
+	<info author="jack9267" description="Provides callahan bridge blowing up support." />
+
+	<script src="client.lua" type="client" />
+</meta>
